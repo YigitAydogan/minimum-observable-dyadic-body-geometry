@@ -1,0 +1,6 @@
+pip install -r requirements.txt
+
+python scripts/01_run_main_experiment.py
+python scripts/02_run_sensitivity_analyses.py
+python scripts/03_generate_results_package.py
+python scripts/04_regenerate_submission_figures.py
