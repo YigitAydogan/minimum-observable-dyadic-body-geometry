@@ -1,0 +1,36 @@
+{
+  "project_dir": "/content/calms21_minimum_body_paper_grade",
+  "results_dir": "/content/calms21_minimum_body_paper_grade/results",
+  "figures_dir": "/content/calms21_minimum_body_paper_grade/figures",
+  "tables_dir": "/content/calms21_minimum_body_paper_grade/tables",
+  "models_dir": "/content/calms21_minimum_body_paper_grade/models",
+  "total_runtime_seconds": 1221.91925406456,
+  "total_runtime_formatted": "20m 21s",
+  "n_clean_models": 55,
+  "n_degradation_rows": 350,
+  "device": "cuda",
+  "gpu_name": "NVIDIA L4",
+  "main_result_files": [
+    "/content/calms21_minimum_body_paper_grade/results/clean_all_seed_region_results.csv",
+    "/content/calms21_minimum_body_paper_grade/results/clean_summary_across_seeds.csv",
+    "/content/calms21_minimum_body_paper_grade/results/clean_retention_vs_full_by_seed.csv",
+    "/content/calms21_minimum_body_paper_grade/results/clean_paired_tests_vs_full.csv",
+    "/content/calms21_minimum_body_paper_grade/results/clean_per_class_results.csv",
+    "/content/calms21_minimum_body_paper_grade/results/clean_pooled_bootstrap_ci.csv",
+    "/content/calms21_minimum_body_paper_grade/results/degradation_results.csv",
+    "/content/calms21_minimum_body_paper_grade/results/degradation_summary_across_seeds.csv",
+    "/content/calms21_minimum_body_paper_grade/results/degradation_paired_tests_vs_full.csv"
+  ],
+  "main_figure_files": [
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_macro_f1_mean_ci95.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_balanced_accuracy_mean_ci95.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_seed_points_macro_f1.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_seed_points_balanced_accuracy.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_macro_f1_retention_vs_full.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_balanced_accuracy_retention_vs_full.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_mean_per_class_recall_heatmap.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_mean_confusion_full_body.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_clean_mean_confusion_hips_tail.png",
+    "/content/calms21_minimum_body_paper_grade/figures/fig_degradation_macro_f1_retention_heatmap.png"
+  ]
+}

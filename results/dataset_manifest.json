@@ -1,0 +1,22 @@
+{
+  "X_shape": [
+    42922,
+    45,
+    2,
+    2,
+    7
+  ],
+  "y_shape": [
+    42922
+  ],
+  "groups_shape": [
+    42922
+  ],
+  "class_counts": {
+    "attack": 6922,
+    "investigation": 12000,
+    "mount": 12000,
+    "other": 12000
+  },
+  "unique_groups": 48
+}

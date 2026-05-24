@@ -1,0 +1,27 @@
+{
+  "addon_dir": "/content/calms21_minimum_body_paper_grade/interface_addon",
+  "results_dir": "/content/calms21_minimum_body_paper_grade/interface_addon/results",
+  "figures_dir": "/content/calms21_minimum_body_paper_grade/interface_addon/figures",
+  "tables_dir": "/content/calms21_minimum_body_paper_grade/interface_addon/tables",
+  "snippets_dir": "/content/calms21_minimum_body_paper_grade/interface_addon/latex_snippets",
+  "figure_paths": {
+    "shallow_baselines": {
+      "png": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_shallow_baseline_macro_f1.png",
+      "pdf": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_shallow_baseline_macro_f1.pdf",
+      "svg": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_shallow_baseline_macro_f1.svg"
+    },
+    "nonoverlap_tcn": {
+      "png": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_nonoverlap_tcn_macro_f1.png",
+      "pdf": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_nonoverlap_tcn_macro_f1.pdf",
+      "svg": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_nonoverlap_tcn_macro_f1.svg"
+    },
+    "retention_comparison": {
+      "png": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_retention_comparison.png",
+      "pdf": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_retention_comparison.pdf",
+      "svg": "/content/calms21_minimum_body_paper_grade/interface_addon/figures/fig_interface_addon_retention_comparison.svg"
+    }
+  },
+  "runtime_seconds": 2313.5583262443542,
+  "runtime_formatted": "38m 33s",
+  "zip_path": "/content/calms21_minimum_body_paper_grade/interface_addon/interface_addon_package.zip"
+}
